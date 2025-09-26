@@ -1,0 +1,9 @@
+displayName: "Edit UUID"
+name: "UUID-java-mod"
+author: "Kashkinzey"
+main: "UUID.UUIDJavaMod"
+description: "Changes UUID. UUID is used for identifying the user. But don't forget about the IP.\nИзменяет UUID. UUID используется для идентификации пользователя. Но не забывайте про IP."
+version: 1.0
+minGameVersion: 150
+java: true
+hidden: true
